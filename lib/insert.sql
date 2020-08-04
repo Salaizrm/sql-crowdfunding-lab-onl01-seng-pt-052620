@@ -1,20 +1,4 @@
-INSERT INTO users VALUES ("bill", 18);
-INSERT INTO users VALUES ("phil", 19);
-INSERT INTO users VALUES ("jill", 20);
-INSERT INTO users VALUES ("billy", 21);
-INSERT INTO users VALUES ("bob", 22);
-INSERT INTO users VALUES ("tom", 23);
-INSERT INTO users VALUES ("dom", 23);
-INSERT INTO users VALUES ("mom", 24);
-INSERT INTO users VALUES ("dad", 25);
-INSERT INTO users VALUES ("you", 26);
-INSERT INTO users VALUES ("me", 27);
-INSERT INTO users VALUES ("tee", 28);
-INSERT INTO users VALUES ("hee", 29);
-INSERT INTO users VALUES ("wow", 30);
-INSERT INTO users VALUES ("wee", 31);
-INSERT INTO users VALUES ("sammy", 32);
-INSERT INTO users VALUES ("mandy", 33);
-INSERT INTO users VALUES ("candy", 34);
-INSERT INTO users VALUES ("randy", 35);
-INSERT INTO users VALUES ("gendy", 36);
+INSERT INTO users (id, name, age) VALUES (1, 'Finnebar', 17), (2, 'Bear', 6), (3, 'Iguana', 4), (4, 'Alex', 33),
+(5, 'Amanda', 24), (6, 'Sophie', 24), (7, 'Rosey', 9), (8, 'Victoria', 23), (9, 'Franz', 100), (10, 'Hermione', 30),
+(11, 'Voldemort', 90), (12, 'Marisa', 24), (13, 'Swizzle', 4), (14, 'Sirius', 36), (15, 'Albus', 113), (16, 'Squid', 5),
+(17, 'Whale', 6), (18, 'Pacha', 5), (19, 'Ena', 24), (20, 'Katie', 24);
